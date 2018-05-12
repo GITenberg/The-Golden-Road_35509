@@ -1,0 +1,35 @@
+_repo: The-Golden-Road_35509
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hood, George Washington
+    aliases:
+    - Hood, G. W.
+    - Hood, George W.
+    birthdate: 1869
+    deathdate: 1949
+    gutenberg_agent_id: '8642'
+    url: http://www.gutenberg.org/2009/agents/8642
+covers:
+- cover_type: archival
+  image_path: 35509-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Allen, Frank Waller
+    birthdate: 1878
+    gutenberg_agent_id: '37735'
+    url: http://www.gutenberg.org/2009/agents/37735
+description: ''
+gutenberg_issued: '2011-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Golden Road
+url: http://www.gutenberg.org/ebooks/35509
