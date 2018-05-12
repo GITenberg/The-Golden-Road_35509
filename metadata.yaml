@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '37735'
     url: http://www.gutenberg.org/2009/agents/37735
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35509#The-Golden-Road
 gutenberg_issued: '2011-03-07'
 gutenberg_type: Text
 identifiers:
